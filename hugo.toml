@@ -1,0 +1,10 @@
+baseURL = '/'
+title = 'Features'
+theme = 'PaperMod'
+
+
+
+[[menu.main]]
+name = "Home"
+url = "http://paltek.vercel.app"
+weight = 1
