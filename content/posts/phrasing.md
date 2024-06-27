@@ -1,7 +1,7 @@
 +++
 title = 'Phrasing'
 date = 2024-06-27T17:30:09+05:30
-draft = true
+draft = false
 +++
 
 

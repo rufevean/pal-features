@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Features</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Features</description>
+    <generator>Hugo -- 0.121.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Jun 2024 17:43:11 +0530</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why</title>
+      <link>/posts/why/</link>
+      <pubDate>Thu, 27 Jun 2024 17:43:11 +0530</pubDate>
+      <guid>/posts/why/</guid>
+      <description>Origineering’s corner stone product is a computer programming language / Operating System called PAL, (acronym for Pan Application Language). It isn’t just a software development tool, but a complete paradigm shift, and is anticipated to be a disruptive technology, like the automobile was to the horse and buggy.
+If computer programming languages were flying machines, than all of them would be lighter than air craft. Whether they are procedural, object oriented, functional, or concatenative, such differences between them are the kind of variations between hot air balloons, helium based dirigibles, and hydrogen filled zeppelins.</description>
+    </item>
+    <item>
+      <title>Planets &amp; Moons: A Design Pattern in PAL</title>
+      <link>/posts/planets/</link>
+      <pubDate>Thu, 27 Jun 2024 17:41:21 +0530</pubDate>
+      <guid>/posts/planets/</guid>
+      <description>Introduction
+In software development the term design pattern is a useful appellation for a reoccurring issue that was dealt with haphazardly (often by boiler-plate machinations) but is now understood well enough to get a systematized solution and label.
+Planet &amp;amp; moons is a design pattern unique to PAL; no coding language has ever conceived of this feature let alone implemented it.
+What they are
+The planet is the main function which takes some input arguments and produces some outputs.</description>
+    </item>
+    <item>
+      <title>Phrasing</title>
+      <link>/posts/phrasing/</link>
+      <pubDate>Thu, 27 Jun 2024 17:30:09 +0530</pubDate>
+      <guid>/posts/phrasing/</guid>
+      <description>Phrasing is an abstraction enabling facility unique to PAL; with no precedent in any coding language.
+Phrasing describes source code instructions expressed with: relaxed–functions, nouns, verbs, adjectives, adverbs, source–hints, code–hints, 2D–operators, and fusion–operators — 9 patterns that elucidate the meaning and intention of the code. This is in stark contrast against statement based syntax of traditional coding languages; typically limited to just functions &amp;amp; operators.
+A relaxed–function means that at invocation: the function’s formal parentheses are omitted, or the commas between arguments are dispensed with, or the function&amp;rsquo;s name occurs anywhere amongst its arguments (instead of preceding them).</description>
+    </item>
+  </channel>
+</rss>

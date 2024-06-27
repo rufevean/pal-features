@@ -1,7 +1,7 @@
 +++
 title = 'Planets & Moons: A Design Pattern in PAL'
 date = 2024-06-27T17:41:21+05:30
-draft = true
+draft = false
 +++
 Introduction
 

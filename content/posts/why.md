@@ -1,7 +1,7 @@
 +++
 title = 'Why'
 date = 2024-06-27T17:43:11+05:30
-draft = true
+draft = false
 +++
 
 
